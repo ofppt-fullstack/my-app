@@ -11,11 +11,11 @@
           "pdfs": [
             {
               "title": "Cours 1 : Introduction au développement web",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Cours 2 : HTML et CSS",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -25,11 +25,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -39,11 +39,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Examen 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -53,11 +53,11 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "EFM 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         }
@@ -74,11 +74,11 @@
           "pdfs": [
             {
               "title": "Cours 1 : Introduction à l’approche agile",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Cours 2 : Méthodes agiles",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -88,11 +88,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -102,11 +102,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Examen 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -116,11 +116,11 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "EFM 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         }
@@ -137,11 +137,11 @@
           "pdfs": [
             {
               "title": "Cours 1 : Introduction aux données",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Cours 2 : Gestion des bases de données",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -151,11 +151,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -165,11 +165,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Examen 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -179,11 +179,11 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "EFM 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         }
@@ -200,11 +200,11 @@
           "pdfs": [
             {
               "title": "Cours 0 : 0-React-concepts.pdf",
-              "fileId": "1XuxPiBVzjJiU2mK77ByKeAg9a0YINsHd"
+              "url": "1XuxPiBVzjJiU2mK77ByKeAg9a0YINsHd"
             },
             {
               "title": "Cours 2 : Développement avec HTML CSS JavaScript",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -214,11 +214,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -228,11 +228,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Examen 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -242,11 +242,11 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "EFM 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         }
@@ -263,11 +263,11 @@
           "pdfs": [
             {
               "title": "Cours 1 : Introduction au back-end",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Cours 2 : Développement côté serveur",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -277,11 +277,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -291,11 +291,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Examen 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -305,11 +305,11 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "EFM 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         }
@@ -326,11 +326,11 @@
           "pdfs": [
             {
               "title": "Cours 1 : Introduction au Cloud native",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Cours 2 : Applications Cloud native",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -340,11 +340,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -354,11 +354,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "Examen 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         },
@@ -368,11 +368,11 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": ""
+              "url": ""
             },
             {
               "title": "EFM 2",
-              "fileId": ""
+              "url": ""
             }
           ]
         }
