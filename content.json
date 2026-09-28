@@ -1,0 +1,381 @@
+{
+  "modules": [
+    {
+      "code": "M201",
+      "title": "Préparation d’un projet web",
+      "categories": [
+        {
+          "type": "cours",
+          "title": "Cours",
+          "pdfs": [
+            {
+              "title": "Cours 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/cours-1.pdf"
+            },
+            {
+              "title": "Cours 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/cours-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "exercices",
+          "title": "Exercices pratiques",
+          "pdfs": [
+            {
+              "title": "Exercice 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/exercice-1.pdf"
+            },
+            {
+              "title": "Exercice 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/exercice-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "examens",
+          "title": "Examens",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/examen-1.pdf"
+            },
+            {
+              "title": "Examen 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/examen-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "efm",
+          "title": "EFM",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/efm-1.pdf"
+            },
+            {
+              "title": "EFM 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M201/efm-2.pdf"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "code": "M202",
+      "title": "Approche agile",
+      "categories": [
+        {
+          "type": "cours",
+          "title": "Cours",
+          "pdfs": [
+            {
+              "title": "Cours 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/cours-1.pdf"
+            },
+            {
+              "title": "Cours 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/cours-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "exercices",
+          "title": "Exercices pratiques",
+          "pdfs": [
+            {
+              "title": "Exercice 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/exercice-1.pdf"
+            },
+            {
+              "title": "Exercice 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/exercice-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "examens",
+          "title": "Examens",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/examen-1.pdf"
+            },
+            {
+              "title": "Examen 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/examen-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "efm",
+          "title": "EFM",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/efm-1.pdf"
+            },
+            {
+              "title": "EFM 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M202/efm-2.pdf"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "code": "M203",
+      "title": "Gestion des données",
+      "categories": [
+        {
+          "type": "cours",
+          "title": "Cours",
+          "pdfs": [
+            {
+              "title": "Cours 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/cours-1.pdf"
+            },
+            {
+              "title": "Cours 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/cours-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "exercices",
+          "title": "Exercices pratiques",
+          "pdfs": [
+            {
+              "title": "Exercice 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/exercice-1.pdf"
+            },
+            {
+              "title": "Exercice 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/exercice-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "examens",
+          "title": "Examens",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/examen-1.pdf"
+            },
+            {
+              "title": "Examen 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/examen-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "efm",
+          "title": "EFM",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/efm-1.pdf"
+            },
+            {
+              "title": "EFM 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M203/efm-2.pdf"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "code": "M204",
+      "title": "Développement front-end",
+      "categories": [
+        {
+          "type": "cours",
+          "title": "Cours",
+          "pdfs": [
+            {
+              "title": "Cours 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/cours-1.pdf"
+            },
+            {
+              "title": "Cours 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/cours-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "exercices",
+          "title": "Exercices pratiques",
+          "pdfs": [
+            {
+              "title": "Exercice 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/exercice-1.pdf"
+            },
+            {
+              "title": "Exercice 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/exercice-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "examens",
+          "title": "Examens",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/examen-1.pdf"
+            },
+            {
+              "title": "Examen 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/examen-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "efm",
+          "title": "EFM",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/efm-1.pdf"
+            },
+            {
+              "title": "EFM 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M204/efm-2.pdf"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "code": "M205",
+      "title": "Développement back-end",
+      "categories": [
+        {
+          "type": "cours",
+          "title": "Cours",
+          "pdfs": [
+            {
+              "title": "Cours 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/cours-1.pdf"
+            },
+            {
+              "title": "Cours 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/cours-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "exercices",
+          "title": "Exercices pratiques",
+          "pdfs": [
+            {
+              "title": "Exercice 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/exercice-1.pdf"
+            },
+            {
+              "title": "Exercice 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/exercice-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "examens",
+          "title": "Examens",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/examen-1.pdf"
+            },
+            {
+              "title": "Examen 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/examen-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "efm",
+          "title": "EFM",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/efm-1.pdf"
+            },
+            {
+              "title": "EFM 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M205/efm-2.pdf"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "code": "M206",
+      "title": "Création d’une application Cloud native",
+      "categories": [
+        {
+          "type": "cours",
+          "title": "Cours",
+          "pdfs": [
+            {
+              "title": "Cours 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/cours-1.pdf"
+            },
+            {
+              "title": "Cours 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/cours-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "exercices",
+          "title": "Exercices pratiques",
+          "pdfs": [
+            {
+              "title": "Exercice 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/exercice-1.pdf"
+            },
+            {
+              "title": "Exercice 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/exercice-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "examens",
+          "title": "Examens",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/examen-1.pdf"
+            },
+            {
+              "title": "Examen 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/examen-2.pdf"
+            }
+          ]
+        },
+        {
+          "type": "efm",
+          "title": "EFM",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/efm-1.pdf"
+            },
+            {
+              "title": "EFM 2",
+              "url": "https://github.com/USERNAME/REPOSITORY/raw/main/pdfs/M206/efm-2.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
