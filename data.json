@@ -11,11 +11,11 @@
           "pdfs": [
             {
               "title": "Cours 1 : Introduction au développement web",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             },
             {
               "title": "Cours 2 : HTML et CSS",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             }
           ]
         },
@@ -25,11 +25,11 @@
           "pdfs": [
             {
               "title": "Exercice pratique 1",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             },
             {
               "title": "Exercice pratique 2",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             }
           ]
         },
@@ -39,11 +39,11 @@
           "pdfs": [
             {
               "title": "Examen 1",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             },
             {
               "title": "Examen 2",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             }
           ]
         },
@@ -53,11 +53,326 @@
           "pdfs": [
             {
               "title": "EFM 1",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
             },
             {
               "title": "EFM 2",
-              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+              "fileId": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M202",
+      "name": "Approche agile",
+      "image": "https://example.com/m202.png",
+      "categories": [
+        {
+          "name": "Cours",
+          "image": "https://example.com/cours.png",
+          "pdfs": [
+            {
+              "title": "Cours 1 : Introduction à l’approche agile",
+              "fileId": ""
+            },
+            {
+              "title": "Cours 2 : Méthodes agiles",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Exercices pratiques",
+          "image": "https://example.com/exercices.png",
+          "pdfs": [
+            {
+              "title": "Exercice pratique 1",
+              "fileId": ""
+            },
+            {
+              "title": "Exercice pratique 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Examens",
+          "image": "https://example.com/examens.png",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "fileId": ""
+            },
+            {
+              "title": "Examen 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "EFM",
+          "image": "https://example.com/efm.png",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "fileId": ""
+            },
+            {
+              "title": "EFM 2",
+              "fileId": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M203",
+      "name": "Gestion des données",
+      "image": "https://example.com/m203.png",
+      "categories": [
+        {
+          "name": "Cours",
+          "image": "https://example.com/cours.png",
+          "pdfs": [
+            {
+              "title": "Cours 1 : Introduction aux données",
+              "fileId": ""
+            },
+            {
+              "title": "Cours 2 : Gestion des bases de données",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Exercices pratiques",
+          "image": "https://example.com/exercices.png",
+          "pdfs": [
+            {
+              "title": "Exercice pratique 1",
+              "fileId": ""
+            },
+            {
+              "title": "Exercice pratique 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Examens",
+          "image": "https://example.com/examens.png",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "fileId": ""
+            },
+            {
+              "title": "Examen 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "EFM",
+          "image": "https://example.com/efm.png",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "fileId": ""
+            },
+            {
+              "title": "EFM 2",
+              "fileId": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M204",
+      "name": "Développement front-end",
+      "image": "https://example.com/m204.png",
+      "categories": [
+        {
+          "name": "Cours",
+          "image": "https://example.com/cours.png",
+          "pdfs": [
+            {
+              "title": "Cours 1 : Introduction au front-end",
+              "fileId": ""
+            },
+            {
+              "title": "Cours 2 : Développement avec HTML CSS JavaScript",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Exercices pratiques",
+          "image": "https://example.com/exercices.png",
+          "pdfs": [
+            {
+              "title": "Exercice pratique 1",
+              "fileId": ""
+            },
+            {
+              "title": "Exercice pratique 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Examens",
+          "image": "https://example.com/examens.png",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "fileId": ""
+            },
+            {
+              "title": "Examen 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "EFM",
+          "image": "https://example.com/efm.png",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "fileId": ""
+            },
+            {
+              "title": "EFM 2",
+              "fileId": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M205",
+      "name": "Développement back-end",
+      "image": "https://example.com/m205.png",
+      "categories": [
+        {
+          "name": "Cours",
+          "image": "https://example.com/cours.png",
+          "pdfs": [
+            {
+              "title": "Cours 1 : Introduction au back-end",
+              "fileId": ""
+            },
+            {
+              "title": "Cours 2 : Développement côté serveur",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Exercices pratiques",
+          "image": "https://example.com/exercices.png",
+          "pdfs": [
+            {
+              "title": "Exercice pratique 1",
+              "fileId": ""
+            },
+            {
+              "title": "Exercice pratique 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Examens",
+          "image": "https://example.com/examens.png",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "fileId": ""
+            },
+            {
+              "title": "Examen 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "EFM",
+          "image": "https://example.com/efm.png",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "fileId": ""
+            },
+            {
+              "title": "EFM 2",
+              "fileId": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "M206",
+      "name": "Création d’une application Cloud native",
+      "image": "https://example.com/m206.png",
+      "categories": [
+        {
+          "name": "Cours",
+          "image": "https://example.com/cours.png",
+          "pdfs": [
+            {
+              "title": "Cours 1 : Introduction au Cloud native",
+              "fileId": ""
+            },
+            {
+              "title": "Cours 2 : Applications Cloud native",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Exercices pratiques",
+          "image": "https://example.com/exercices.png",
+          "pdfs": [
+            {
+              "title": "Exercice pratique 1",
+              "fileId": ""
+            },
+            {
+              "title": "Exercice pratique 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "Examens",
+          "image": "https://example.com/examens.png",
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "fileId": ""
+            },
+            {
+              "title": "Examen 2",
+              "fileId": ""
+            }
+          ]
+        },
+        {
+          "name": "EFM",
+          "image": "https://example.com/efm.png",
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "fileId": ""
+            },
+            {
+              "title": "EFM 2",
+              "fileId": ""
             }
           ]
         }
