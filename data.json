@@ -15,24 +15,51 @@
             },
             {
               "title": "Cours 2 : HTML et CSS",
-              "fileId": "GOOGLE_DRIVE_FILE_ID"
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
             }
           ]
         },
         {
           "name": "Exercices pratiques",
           "image": "https://example.com/exercices.png",
-          "pdfs": []
+          "pdfs": [
+            {
+              "title": "Exercice pratique 1",
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+            },
+            {
+              "title": "Exercice pratique 2",
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+            }
+          ]
         },
         {
           "name": "Examens",
           "image": "https://example.com/examens.png",
-          "pdfs": []
+          "pdfs": [
+            {
+              "title": "Examen 1",
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+            },
+            {
+              "title": "Examen 2",
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+            }
+          ]
         },
         {
           "name": "EFM",
           "image": "https://example.com/efm.png",
-          "pdfs": []
+          "pdfs": [
+            {
+              "title": "EFM 1",
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+            },
+            {
+              "title": "EFM 2",
+              "fileId": "1l3FA696LuoY8U7Kfc7JzW1ThvkU1sJMj"
+            }
+          ]
         }
       ]
     }
