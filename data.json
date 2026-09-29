@@ -10,6 +10,10 @@
           "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
             {
+              "title": "Hnaaaaa image test test",
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObZkU-8297G06MJcozRt69oN4uJnaa2kiW-4b-qotXQ"
+            },
+            {
               "title": "Cours 1 : TEST 🤞 Introduction au développement web",
               "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/Examen%20UML.pdf"
             },
