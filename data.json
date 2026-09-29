@@ -129,7 +129,7 @@
     {
       "code": "M203",
       "name": "Gestion des données",
-      "image": "https://example.com/m203.png",
+      "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/M203-mysql.png",
       "categories": [
         {
           "name": "Cours",
