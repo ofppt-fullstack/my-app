@@ -7,7 +7,7 @@
       "categories": [
         {
           "name": "Cours",
-          "image": "https://example.com/cours.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
             {
               "title": "Cours 1 : TEST Introduction au développement web",
@@ -70,7 +70,7 @@
       "categories": [
         {
           "name": "Cours",
-          "image": "https://example.com/cours.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
             {
               "title": "Cours 1 : Introduction à l’approche agile",
@@ -133,7 +133,7 @@
       "categories": [
         {
           "name": "Cours",
-          "image": "https://example.com/cours.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
             {
               "title": "Cours 1 : Introduction aux données",
@@ -196,7 +196,7 @@
       "categories": [
         {
           "name": "Cours",
-          "image": "https://example.com/cours.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
                                     {
                       "title": "0 - React Concepts",
@@ -375,7 +375,7 @@
       "categories": [
         {
           "name": "Cours",
-          "image": "https://example.com/cours.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
             {
               "title": "Cours 1 : Introduction au back-end",
@@ -438,7 +438,7 @@
       "categories": [
         {
           "name": "Cours",
-          "image": "https://example.com/cours.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/cours.png",
           "pdfs": [
             {
               "title": "Cours 1 : Introduction au Cloud native",
