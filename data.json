@@ -255,7 +255,7 @@
     {
       "code": "M205",
       "name": "Développement back-end",
-      "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/m205-laravel.png",
+      "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/m205-laravel.png",
       "categories": [
         {
           "name": "Cours",
