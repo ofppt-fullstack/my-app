@@ -60,6 +60,16 @@
         }
       ]
     },
+
+
+
+
+
+
+
+
+
+    
     {
       "code": "M202",
       "name": "Approche agile",
@@ -123,6 +133,19 @@
         }
       ]
     },
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "code": "M203",
       "name": "Gestion des données",
@@ -186,6 +209,17 @@
         }
       ]
     },
+
+
+
+
+
+
+
+
+
+
+    
     {
       "code": "M204",
       "name": "Développement front-end",
@@ -393,7 +427,7 @@
                       },
                       {
                         "title": "EFMR 2022-2023 — Front-End — Régionale",
-                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2023%20-%20EFMRRegionaleFrontEnd.pdf"
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/react/efm/2023-EFMRegionaleFrontEnd.pdf"
                       },
                       {
                         "title": "EFMR 2022-2023 — Rabat-Salé-Kénitra + Correction",
