@@ -35,7 +35,7 @@
         },
         {
           "name": "Examens",
-          "image": "https://example.com/examens.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
             {
               "title": "Examen 1",
@@ -98,7 +98,7 @@
         },
         {
           "name": "Examens",
-          "image": "https://example.com/examens.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
             {
               "title": "Examen 1",
@@ -161,7 +161,7 @@
         },
         {
           "name": "Examens",
-          "image": "https://example.com/examens.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
             {
               "title": "Examen 1",
@@ -308,7 +308,7 @@
         },
         {
           "name": "Examens",
-          "image": "https://example.com/examens.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
             {
               "title": "Examen 1",
@@ -403,7 +403,7 @@
         },
         {
           "name": "Examens",
-          "image": "https://example.com/examens.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
             {
               "title": "Examen 1",
@@ -466,7 +466,7 @@
         },
         {
           "name": "Examens",
-          "image": "https://example.com/examens.png",
+          "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
             {
               "title": "Examen 1",
