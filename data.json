@@ -3,7 +3,7 @@
     {
       "code": "M201",
       "name": "Préparation d’un projet web",
-      "image": "https://example.com/m201.png",
+      "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/M201.png",
       "categories": [
         {
           "name": "Cours",
