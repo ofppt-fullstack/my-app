@@ -10,12 +10,12 @@
           "image": "https://example.com/cours.png",
           "pdfs": [
             {
-              "title": "Cours 1 : Introduction au développement web",
-              "url": ""
+              "title": "Cours 1 : TEST Introduction au développement web",
+              "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/Examen%20UML.pdf"
             },
             {
-              "title": "Cours 2 : HTML et CSS",
-              "url": ""
+              "title": "Cours 2 : TEST HTML et CSS",
+              "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/0-React-concepts.pdf"
             }
           ]
         },
