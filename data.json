@@ -66,7 +66,7 @@
     {
       "code": "M202",
       "name": "Approche agile",
-      "image": "https://example.com/m202.png",
+      "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/m202-agile.png",
       "categories": [
         {
           "name": "Cours",
