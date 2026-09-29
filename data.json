@@ -37,75 +37,7 @@
           "name": "Examens",
           "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
-                    {
-                      "title": "01 - Contrôle 1 - Développement Front-End.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/01%20-%20controle1fs1v1%5B1%5D.pdf"
-                    },
-                    {
-                      "title": "02 - Contrôle 1 - Développement Front-End.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/02%20-%20Controle1%281%29.pdf"
-                    },
-                    {
-                      "title": "03 - Contrôle 1 - Développement Front-End.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/03%20-%20controle1%20%281%29.pdf"
-                    },
-                    {
-                      "title": "04 - Contrôle 1 - 2024-2025.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/04%20-%20controle_1_2024-2025.pdf"
-                    },
-                    {
-                      "title": "05 - Contrôle 1 - DEVOWFS201 - Version 2.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/05%20-%20contr%C3%B4le%201%20-%20devowfs201_v2.pdf"
-                    },
-                    {
-                      "title": "06 - Contrôle 1 - DEVOWFS201 - Version 1.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/06%20-%20contr%C3%B4le%201%20-%20devowfs201_v1.pdf"
-                    },
-                    {
-                      "title": "07 - Contrôle 2 - Exercice.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/07%20-%20ex2.pdf"
-                    },
-                    {
-                      "title": "08 - Contrôle 2 - Version 1.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/08%20-%20Controle2V1%20%281%29.pdf"
-                    },
-                    {
-                      "title": "09 - Contrôle 2 - Version 2.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/09%20-%20Controle2V1%20%281%29.pdf"
-                    },
-                    {
-                      "title": "10 - Contrôle 2 - DEVOWFS202 - Version 2.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/10%20-%20contr%C3%B4le%202%20-%20devowfs202_v2.pdf"
-                    },
-                    {
-                      "title": "11 - Contrôle 2 - DEVOWFS201 - Version 3.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/11%20-%20contr%C3%B4le%202%20-%20devowfs201_v3.pdf"
-                    },
-                    {
-                      "title": "12 - Contrôle 2 - DEVOWFS201 - Version 2.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/12%20-%20contr%C3%B4le%202%20-%20devowfs201_v2.pdf"
-                    },
-                    {
-                      "title": "13 - Contrôle 1 - Version officielle.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/Controle1.pdf"
-                    },
-                    {
-                      "title": "14 - Contrôle 2 - Version 1.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/Controle2V1.pdf"
-                    },
-                    {
-                      "title": "15 - M204 - Contrôle continu.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/M204-CC3.pdf"
-                    },
-                    {
-                      "title": "16 - Contrôle 2 - Version 1 - 2023.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/contr%C3%B4le%202%20-V1-203.pdf"
-                    },
-                    {
-                      "title": "17 - Contrôle 2 - Version 2 - 2023.pdf",
-                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/contr%C3%B4le%202%20-V2-203.pdf"
-                    }
-
+                    
           ]
         },
         {
@@ -371,14 +303,76 @@
           "name": "Examens",
           "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/exams.png",
           "pdfs": [
-            {
-              "title": "Examen 1",
-              "url": ""
-            },
-            {
-              "title": "Examen 2",
-              "url": ""
-            }
+
+                    {
+                      "title": "01 - Contrôle 1 - Développement Front-End.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/01%20-%20controle1fs1v1%5B1%5D.pdf"
+                    },
+                    {
+                      "title": "02 - Contrôle 1 - Développement Front-End.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/02%20-%20Controle1%281%29.pdf"
+                    },
+                    {
+                      "title": "03 - Contrôle 1 - Développement Front-End.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/03%20-%20controle1%20%281%29.pdf"
+                    },
+                    {
+                      "title": "04 - Contrôle 1 - 2024-2025.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/04%20-%20controle_1_2024-2025.pdf"
+                    },
+                    {
+                      "title": "05 - Contrôle 1 - DEVOWFS201 - Version 2.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/05%20-%20contr%C3%B4le%201%20-%20devowfs201_v2.pdf"
+                    },
+                    {
+                      "title": "06 - Contrôle 1 - DEVOWFS201 - Version 1.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/06%20-%20contr%C3%B4le%201%20-%20devowfs201_v1.pdf"
+                    },
+                    {
+                      "title": "07 - Contrôle 2 - Exercice.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/07%20-%20ex2.pdf"
+                    },
+                    {
+                      "title": "08 - Contrôle 2 - Version 1.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/08%20-%20Controle2V1%20%281%29.pdf"
+                    },
+                    {
+                      "title": "09 - Contrôle 2 - Version 2.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/09%20-%20Controle2V1%20%281%29.pdf"
+                    },
+                    {
+                      "title": "10 - Contrôle 2 - DEVOWFS202 - Version 2.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/10%20-%20contr%C3%B4le%202%20-%20devowfs202_v2.pdf"
+                    },
+                    {
+                      "title": "11 - Contrôle 2 - DEVOWFS201 - Version 3.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/11%20-%20contr%C3%B4le%202%20-%20devowfs201_v3.pdf"
+                    },
+                    {
+                      "title": "12 - Contrôle 2 - DEVOWFS201 - Version 2.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/12%20-%20contr%C3%B4le%202%20-%20devowfs201_v2.pdf"
+                    },
+                    {
+                      "title": "13 - Contrôle 1 - Version officielle.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/Controle1.pdf"
+                    },
+                    {
+                      "title": "14 - Contrôle 2 - Version 1.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/Controle2V1.pdf"
+                    },
+                    {
+                      "title": "15 - M204 - Contrôle continu.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/M204-CC3.pdf"
+                    },
+                    {
+                      "title": "16 - Contrôle 2 - Version 1 - 2023.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/contr%C3%B4le%202%20-V1-203.pdf"
+                    },
+                    {
+                      "title": "17 - Contrôle 2 - Version 2 - 2023.pdf",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/exams/contr%C3%B4le%202%20-V2-203.pdf"
+                    }
+
           ]
         },
         {
