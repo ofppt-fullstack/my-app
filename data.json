@@ -272,14 +272,46 @@
           "name": "EFM",
           "image": "https://example.com/efm.png",
           "pdfs": [
-            {
-              "title": "EFM 1",
-              "url": ""
-            },
-            {
-              "title": "EFM 2",
-              "url": ""
-            }
+                      {
+                        "title": "EFMR 2022-2023 — Béni Mellal-Khénifra",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2023%20-%20B%C3%A9ni%20Mellal%20Kh%C3%A9nifra%20V1.pdf"
+                      },
+                      {
+                        "title": "EFMR 2022-2023 — Casablanca + Correction",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2023%20-%20CASA%20%28EFM%20%2B%20Correction%29.pdf"
+                      },
+                      {
+                        "title": "EFMR 2022-2023 — Front-End — Régionale",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2023%20-%20EFMRRegionaleFrontEnd.pdf"
+                      },
+                      {
+                        "title": "EFMR 2022-2023 — Rabat-Salé-Kénitra + Correction",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2023%20-%20RABAT-SAL%C3%89-KENITRA%20%2B%20Corr.pdf"
+                      },
+                      {
+                        "title": "EFMR 2022-2023 — Tanger-Tétouan-Al Hoceïma",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2023%20-%20TTA%20%28Tanger-T%C3%A9touan-Al%20Hoce%C3%AFma%29.pdf"
+                      },
+                      {
+                        "title": "EFMR 2023-2024 — Casablanca — Correction",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2024%20-%20CORRECTION%20CASA%20-%20v.pdf"
+                      },
+                      {
+                        "title": "EFMR 2023-2024 — Casablanca — Version 2",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2024%20-%20Casa%20-%20v2.pdf"
+                      },
+                      {
+                        "title": "EFMR 2023-2024 — Casablanca — Correction",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2024%20-%20Correction%20Casa.pdf"
+                      },
+                      {
+                        "title": "EFMR 2023-2024 — Fès",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2024%20-%20FES%20-%20V1.pdf"
+                      },
+                      {
+                        "title": "EFMR 2023-2024 — Souss-Massa",
+                        "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/efm/2024%20-%20Souss%20Massa.pdf"
+                      }
           ]
         }
       ]
