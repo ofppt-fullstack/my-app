@@ -318,7 +318,7 @@
     {
       "code": "M206",
       "name": "Création d’une application Cloud native",
-      "image": "https://example.com/m206.png",
+      "image": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/image/m206--cloud.png",
       "categories": [
         {
           "name": "Cours",
