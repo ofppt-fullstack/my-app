@@ -198,46 +198,46 @@
           "name": "Cours",
           "image": "https://example.com/cours.png",
           "pdfs": [
-                  {
-    "title": "0 - React Concepts",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/0-React-concepts.pdf"
-  },
-  {
-    "title": "1 - JavaScript",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/1-JavaScript.pdf"
-  },
-  {
-    "title": "2 - JSX Composant",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/2-JSX-Composant.pdf"
-  },
-  {
-    "title": "3 - State",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/3-State.pdf"
-  },
-  {
-    "title": "4 - Événement Communication entre Composants",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/4-Evenement-Communication-entre-Composants.pdf"
-  },
-  {
-    "title": "5 - Routage",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/5-Routage.pdf"
-  },
-  {
-    "title": "6 - React API",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/6-React-API.pdf"
-  },
-  {
-    "title": "7 - Redux",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/7-Redux.pdf"
-  },
-  {
-    "title": "8 - Redux Toolkit",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/8-ReduxToolkit.pdf"
-  },
-  {
-    "title": "10 - Redux Thunk",
-    "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/10-Redux_Thunk.pdf"
-  }
+                                    {
+                      "title": "0 - React Concepts",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/0-React-concepts.pdf"
+                    },
+                    {
+                      "title": "1 - JavaScript",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/1-JavaScript.pdf"
+                    },
+                    {
+                      "title": "2 - JSX Composant",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/2-JSX-Composant.pdf"
+                    },
+                    {
+                      "title": "3 - State",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/3-State.pdf"
+                    },
+                    {
+                      "title": "4 - Événement Communication entre Composants",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/4-Evenement-Communication-entre-Composants.pdf"
+                    },
+                    {
+                      "title": "5 - Routage",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/5-Routage.pdf"
+                    },
+                    {
+                      "title": "6 - React API",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/6-React-API.pdf"
+                    },
+                    {
+                      "title": "7 - Redux",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/7-Redux.pdf"
+                    },
+                    {
+                      "title": "8 - Redux Toolkit",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/8-ReduxToolkit.pdf"
+                    },
+                    {
+                      "title": "10 - Redux Thunk",
+                      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/react/cours/10-Redux_Thunk.pdf"
+                    }
           ]
         },
         {
