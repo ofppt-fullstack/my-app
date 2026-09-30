@@ -2,13 +2,6 @@
   "name": "Examen de Fin de Formation - Full Stack",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2qeKQfij8dqYvj40W75RAesBg87gDKEjl4rotLLWlJO9uOW6r_2id8M",
   "pdfs": [
-    {
-      "title": "EFF_Blanc_2026_DriveNow",
-      "url": "https://raw.githubusercontent.com/ofppt-fullstack/my-app/main/EFF_Blanc_2026_DriveNow.pdf"
-    },
-    {
-      "title": "EFF Full Stack 2024",
-      "url": "https://..."
-    }
+
   ]
 }
